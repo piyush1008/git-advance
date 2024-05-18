@@ -2,8 +2,4 @@ hii piyush
 hii there
 this is new things
 
-adding one line in the demo branch
 
-adding another line in the demo branch
-
-adding another line in the demo branch with a new line 
